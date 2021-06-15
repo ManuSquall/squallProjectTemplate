@@ -13,7 +13,14 @@
 
 ### Output:
 
-<!-- What the result is supposed to be, result screenshot -->
+<!-- What the result is supposed to be -->
+
+<!-- screenshot result in a readme folder
+![output1](/readme/output1.png)
+
+![output2](/readme/output2.png)
+-->
+
 
 ## About Authors / Contributors
 
