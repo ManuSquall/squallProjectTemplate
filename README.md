@@ -1,5 +1,5 @@
 <!-- Repository git : https://github.com/ManuSquall/ -->
-# SquallJavaSniffer
+# Title
 
 <!-- Description -->
 
@@ -21,7 +21,7 @@
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal]() Creative Commons License.
+This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License.
 
 
 ## Acknowledgments
