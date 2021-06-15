@@ -11,7 +11,7 @@
 
 <!-- What we have to do to make it work/run -->
 
-### Output:
+## Output:
 
 <!-- What the result is supposed to be -->
 
