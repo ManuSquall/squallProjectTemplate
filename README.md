@@ -8,7 +8,7 @@
 <!-- Why am i making this -->
 
 ## Tools used
-<!-- Packages, external librairies, utilitaries used -->
+<!-- Packages, external librairies, IDE, utilitaries used -->
 * [VS Code](https://code.visualstudio.com/)
 
 
@@ -39,7 +39,9 @@ This project is licensed under the [CC0 1.0 Universal](https://creativecommons.o
 ## Acknowledgments
 
 <!-- inspiration, research stuff -->
-
+*
+*
+*
 
 
 
