@@ -7,6 +7,11 @@
 
 <!-- Why am i making this -->
 
+## Tools used
+<!-- Packages, external librairies, utilitaries used -->
+* [VS Code](https://code.visualstudio.com/)
+
+
 ## How does it work
 
 <!-- What we have to do to make it work/run -->
