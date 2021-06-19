@@ -4,8 +4,8 @@
 <!-- Description -->
 
 ## Context
-
 <!-- Why am i making this -->
+
 
 ## Tools used
 <!-- Packages, external librairies, IDE, utilitaries used -->
@@ -13,8 +13,8 @@
 
 
 ## How does it work
-
 <!-- What we have to do to make it work/run -->
+
 
 ## Output:
 
@@ -37,7 +37,6 @@ This project is licensed under the [CC0 1.0 Universal](https://creativecommons.o
 
 
 ## Acknowledgments
-
 <!-- inspiration, research stuff -->
 *
 *
