@@ -1,22 +1,23 @@
 <!-- Repository git : https://github.com/ManuSquall/ -->
-# Title
+# Project Title
 
 <!-- Description -->
 
-## Context
+## 💡 Context 💡
 <!-- Why am i making this -->
 
 
-## Tools used
+## ⚒ Tools used 🛠
 <!-- Packages, external librairies, IDE, utilitaries used -->
-* [VS Code](https://code.visualstudio.com/)
+<!-- * [VS Code](https://code.visualstudio.com/) -->
+<!-- * [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) -->
 
 
-## How does it work
+## 🎮 How does it work 🎮
 <!-- What we have to do to make it work/run -->
 
 
-## Output:
+## 💻 Output 💻
 
 <!-- What the result is supposed to be -->
 
@@ -27,21 +28,20 @@
 -->
 
 
-## About Authors / Contributors
+## 👥 About Authors / Contributors 👥
 
 [ManuSquall](https://manusquall.azurewebsites.net/)
 
-## License
+## 📜 License 📜
 
-This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License.
+<!-- This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License. -->
+<!-- This project is licensed under the MIT License - see the [LICENSE.md](https://en.wikipedia.org/wiki/MIT_License) file for details -->
 
-
-## Acknowledgments
+## 🔍 Acknowledgments 🔍
 <!-- inspiration, research stuff -->
 *
 *
-*
 
-
-# Made with purple 💜 lust :-)
+### Sharing is caring! 
+### 💜 from the squallor :-)
 
