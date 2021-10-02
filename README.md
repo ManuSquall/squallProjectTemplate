@@ -35,7 +35,7 @@
 ## 📜 License 📜
 
 <!-- This project is licensed under the [CC0 1.0 Universal](https://creativecommons.org/) Creative Commons License. -->
-<!-- This project is licensed under the MIT License - see the [LICENSE.md](https://en.wikipedia.org/wiki/MIT_License) file for details -->
+<!-- This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). -->
 
 ## 🔍 Acknowledgments 🔍
 <!-- inspiration, research stuff -->
