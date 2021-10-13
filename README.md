@@ -12,6 +12,10 @@
 <!-- * [VS Code](https://code.visualstudio.com/) -->
 <!-- * [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) -->
 
+## Prerequisites
+<!-- What we have to do to make it work/run -->
+> Node version 10.22.1
+
 
 ## 🎮 How does it work 🎮
 <!-- What we have to do to make it work/run -->
